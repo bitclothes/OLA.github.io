@@ -9,4 +9,4 @@ Hoy os quiero contar dos cosa:
 2ª Esta pagina puede ser mas que un simple blog, pero confieso que crear un blog me ha custado 2 minutos.....
 
 
-images/uno-de-los-memes-del-coronavirus-en-twitter.png
+img :images/uno-de-los-memes-del-coronavirus-en-twitter.png
